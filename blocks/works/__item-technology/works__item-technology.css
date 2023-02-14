@@ -1,0 +1,11 @@
+.works__item-technology {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 17px;
+  color: #f0e3ca;
+  text-align: center;
+  margin: 45px auto 0;
+  padding: 0 0 25px 0;
+  max-width: 300px;
+  border-bottom: 5px solid #A35709;
+}

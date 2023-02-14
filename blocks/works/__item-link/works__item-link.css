@@ -1,0 +1,18 @@
+.works__item-link {
+  background-color: #32312e;
+  border-radius: 4px;
+  display: block;
+  width: 200px;
+  margin: 40px auto 0;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 60px;
+  color: #f0e3ca;
+  text-decoration: none;
+  text-align: center;
+  transition: background-color ease .4s;
+}
+
+.works__item-link:hover{
+    background-color: #ff8303;
+}

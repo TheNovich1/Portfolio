@@ -1,0 +1,6 @@
+.works__item-image{
+    width: 520px;
+    height: 520px;
+    object-fit: fill;
+    display: flex;
+}

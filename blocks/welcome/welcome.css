@@ -1,0 +1,12 @@
+.welcome{
+    display: flex;
+    align-items: center;
+    min-height: 720px;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 850px) {
+    .welcome{
+        flex-direction: column;
+    }
+}

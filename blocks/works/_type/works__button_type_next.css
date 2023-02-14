@@ -1,0 +1,11 @@
+.works__button_type_next{
+    position: absolute;
+    top: 480px;
+    right: 170px
+}
+
+@media screen and (max-width: 1280px) {
+    .works__button_type_next{
+        right: 0;
+    }
+}

@@ -1,0 +1,22 @@
+.welcome__image-container{
+    min-width: 630px;
+    min-height: 575px;
+    background-image: url(../../../images/backg-welcome.png);
+    background-repeat: no-repeat;
+    background-size: fill;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (max-width: 1280px) {
+    .welcome__image-container{
+        min-width: 400px;
+    }
+}
+@media screen and (max-width: 850px) {
+    .welcome__image-container{
+        margin: 40px auto 0;
+        max-width: 100%;
+    }
+}

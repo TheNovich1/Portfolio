@@ -1,0 +1,12 @@
+.works__button_type_prev {
+  position: absolute;
+  top: 480px;
+  left: 170px;
+}
+
+
+@media screen and (max-width: 1280px) {
+  .works__button_type_prev{
+      left: 0;
+  }
+}

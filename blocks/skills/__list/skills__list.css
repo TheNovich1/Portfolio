@@ -1,0 +1,11 @@
+.skills__list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    max-width: 1080px;
+    margin: 55px auto 0;
+    gap: 30px;
+    padding: 0;
+}
